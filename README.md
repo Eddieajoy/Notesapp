@@ -12,3 +12,4 @@
 No se puede enlazar android studio con github
 Abrir MyNotes.rar y descargar
 
+![Captura de pantalla (257)](https://user-images.githubusercontent.com/115562326/215829244-7b879e21-c758-4c58-a6af-2106e724bc75.png)
