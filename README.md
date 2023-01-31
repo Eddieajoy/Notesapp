@@ -14,3 +14,4 @@ Abrir MyNotes.rar y descargar
 
 ![Captura de pantalla (257)](https://user-images.githubusercontent.com/115562326/215829244-7b879e21-c758-4c58-a6af-2106e724bc75.png)
 ![Captura de pantalla (258)](https://user-images.githubusercontent.com/115562326/215829418-e01766ee-9838-4a6f-b0d5-50df9f4c02bd.png)
+![Captura de pantalla (259)](https://user-images.githubusercontent.com/115562326/215829734-021c0481-0b53-44a2-b7af-124a0fb2f1cd.png)
