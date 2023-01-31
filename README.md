@@ -9,5 +9,6 @@
 - **Colores de notas** - Cambiar/Agregar diferentes colores de notas.
 - **Reeditar notas** - Reeditar o actualizar sus notas.
 
+No se puede enlazar android studio con github
 Abrir MyNotes.rar y descargar
 
