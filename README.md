@@ -9,3 +9,5 @@
 - **Colores de notas** - Cambiar/Agregar diferentes colores de notas.
 - **Reeditar notas** - Reeditar o actualizar sus notas.
 
+Abrir Mynotes.rar y descargar
+
